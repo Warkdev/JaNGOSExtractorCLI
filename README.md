@@ -1,4 +1,4 @@
-# JaNGOSExtractorCLI  [![Build status](https://travis-ci.com/Warkdev/JaNGOSExtractor.svg?branch=master)][1] [![Jit](https://jitpack.io/v/warkdev/JaNGOSExtractorCLI.svg)][4] [![Coverage Status](https://coveralls.io/repos/github/Warkdev/JaNGOSExtractorCLI/badge.svg?branch=master)][5] [![Codebeat badge](https://codebeat.co/badges/5ccfd060-8d57-4a51-9c6b-2688482f857e)][6] [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWarkdev%2FJaNGOSExtractorCLI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWarkdev%2FJaNGOSExtractorCLI?ref=badge_shield)
+# JaNGOSExtractorCLI  [![Build status](https://travis-ci.com/Warkdev/JaNGOSExtractorCLI.svg?branch=master)][1] [![Jit](https://jitpack.io/v/warkdev/JaNGOSExtractorCLI.svg)][4] [![Coverage Status](https://coveralls.io/repos/github/Warkdev/JaNGOSExtractorCLI/badge.svg?branch=master)][5] [![Codebeat badge](https://codebeat.co/badges/5ccfd060-8d57-4a51-9c6b-2688482f857e)][6] [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWarkdev%2FJaNGOSExtractorCLI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWarkdev%2FJaNGOSExtractorCLI?ref=badge_shield)
 JaNGOSExtractorCLI is a CLI extension for the JaNGOSExtractor library. It allows to consult and convert WoW 1.12.x terrain data. See the [Javadoc][2] for more information.
 
 Don't hesitate to raise an issue in the [tracker][3] if you notice any suspect behavior.
@@ -12,7 +12,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 The full license is included in the file License.md.
 
-[1]: https://travis-ci.com/Warkdev/JaNGOSExtractor "Travis CI · JaNGOS Extractor build status"
+[1]: https://travis-ci.com/Warkdev/JaNGOSExtractorCLI "Travis CI · JaNGOS Extractor CLI build status"
 [2]: https://warkdev.github.io/JaNGOSExtractorCLI/apidocs/ "JaNGOS Extractor CLI javadoc"
 [3]: https://github.com/JaNGOSExtractorCLI/issues/ "JaNGOS Extractor CLI Issues"
 [4]: https://jitpack.io/#warkdev/JaNGOSExtractorCLI "JaNGOS Extractor CLI Jitpack"
