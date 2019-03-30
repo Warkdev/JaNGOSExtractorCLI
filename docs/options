@@ -1,0 +1,28 @@
+--class-path
+'C:/Users/Cedri/.m2/repository/org/apache/commons/commons-compress/1.15/commons-compress-1.15.jar;C:/Users/Cedri/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar;C:/Users/Cedri/.m2/repository/com/github/depsypher/pngtastic/pngtastic-1.5/pngtastic-pngtastic-1.5.jar;C:/Users/Cedri/.m2/repository/org/tukaani/xz/1.8/xz-1.8.jar'
+--module-path
+'C:/Users/Cedri/.m2/repository/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-graphics/11.0.2/javafx-graphics-11.0.2.jar;C:/Users/Cedri/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-swing/11.0.2/javafx-swing-11.0.2-win.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-graphics/11.0.2/javafx-graphics-11.0.2-win.jar;C:/Users/Cedri/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar;C:/Users/Cedri/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar;C:/Users/Cedri/.m2/repository/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar;C:/Users/Cedri/.m2/repository/com/jcraft/jzlib/1.1.3/jzlib-1.1.3.jar;C:/Users/Cedri/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-swing/11.0.2/javafx-swing-11.0.2.jar;C:/Users/Cedri/.m2/repository/com/github/warkdev/Utils/1.0/Utils-1.0.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-base/11.0.2/javafx-base-11.0.2-win.jar;C:/Users/Cedri/.m2/repository/de/javagl/obj/0.3.0/obj-0.3.0.jar;C:/Users/Cedri/.m2/repository/com/github/warkdev/jmpq3/java9-module-dd4a82f438-1/jmpq3-java9-module-dd4a82f438-1.jar;C:/Users/Cedri/.m2/repository/eu/jangos/JaNGOSExtractor/1.0/JaNGOSExtractor-1.0.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-base/11.0.2/javafx-base-11.0.2.jar;C:/Users/Cedri/.m2/repository/org/openjfx/javafx-controls/11.0.2/javafx-controls-11.0.2-win.jar'
+--patch-module
+eu.jangos.cli='D:/Jangos/JaNGOSExtractorCLI/src/main/java'
+-encoding
+'UTF-8'
+-protected
+--module-source-path
+'D:/Jangos/JaNGOSExtractorCLI/docs/src'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Jangos/JaNGOSExtractorCLI/docs'
+-docencoding
+'UTF-8'
+-doctitle
+'JaNGOSExtractorCLI 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/Jangos/JaNGOSExtractorCLI/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JaNGOSExtractorCLI 1.0 API'
