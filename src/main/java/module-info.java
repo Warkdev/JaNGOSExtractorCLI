@@ -32,5 +32,8 @@ module eu.jangos.cli {
     requires org.apache.commons.io;
     requires org.apache.commons.lang3;
     requires javafx.swingEmpty;
-    requires javafx.swing;    
+    requires javafx.swing;
+    requires info.picocli;
+    requires info.picocli.shell.jline3;
+    requires jline;
 }
